@@ -29,3 +29,15 @@ https://github.com/user-attachments/assets/594b9e36-0452-4784-84d5-3e9b698d5229
 - **Python 3.8+**
 - **Virtual Environment** (optional but recommended)
 
+## Contact
+
+If you have any questions, need more information, or find this project interesting, feel free to reach out!
+
+- **Email**: [Mail Vraj Patel](mailto:vjp21112@gmail.com)
+- **WhatsApp**: [Message Me on WhatsApp](https://wa.me/+919619463359)
+- **LinkedIn**: [Vraj Patel Linkedin](https://linkedin.com/in/iamvrajpatel)
+- **GitHub**: [Vraj Patel Github](https://github.com/iamvrajpatel)
+
+We'd love to hear from you!
+
+
